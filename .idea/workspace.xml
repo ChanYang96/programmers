@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac808b2e-4dad-432e-8fbf-441b1410ee31" name="Changes" comment="프로그래머스 0923">
-      <change afterPath="$PROJECT_DIR$/src/Solution11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution13.java" afterDir="false" />
+    <list default="true" id="ac808b2e-4dad-432e-8fbf-441b1410ee31" name="Changes" comment="프로그래머스 0924">
+      <change afterPath="$PROJECT_DIR$/src/Solution14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695469786364</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="프로그래머스 0924">
+      <created>1695565517609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695565517609</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +93,7 @@
     <MESSAGE value="https://github.com/ChanYang96/programmers.git" />
     <MESSAGE value="프로그래머스" />
     <MESSAGE value="프로그래머스 0923" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 0923" />
+    <MESSAGE value="프로그래머스 0924" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 0924" />
   </component>
 </project>
