@@ -11,7 +11,6 @@ public class Solution32 {
 
     public static void main(String[] args) {
         String my_string = "aAb1B2cC34oOp";
-
         System.out.println(solution(my_string));
     }
 }
