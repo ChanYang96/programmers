@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac808b2e-4dad-432e-8fbf-441b1410ee31" name="Changes" comment="프로그래머스 1103">
-      <change afterPath="$PROJECT_DIR$/src/Solution43.java" afterDir="false" />
+    <list default="true" id="ac808b2e-4dad-432e-8fbf-441b1410ee31" name="Changes" comment="프로그래머스 1107">
+      <change afterPath="$PROJECT_DIR$/src/Solution44.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699018942599</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="프로그래머스 1107">
+      <created>1699361979876</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699361979876</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,18 +235,10 @@
     <MESSAGE value="프로그래머스 1013" />
     <MESSAGE value="프로그래머스 1102" />
     <MESSAGE value="프로그래머스 1103" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 1103" />
+    <MESSAGE value="프로그래머스 1107" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 1107" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution43.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="my_string.value" />
