@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac808b2e-4dad-432e-8fbf-441b1410ee31" name="Changes" comment="프로그래머스 1122">
-      <change afterPath="$PROJECT_DIR$/src/Solution51.java" afterDir="false" />
+    <list default="true" id="ac808b2e-4dad-432e-8fbf-441b1410ee31" name="Changes" comment="프로그래머스 1124">
+      <change afterPath="$PROJECT_DIR$/src/Solution52.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -237,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700651574417</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="프로그래머스 1124">
+      <created>1700831578293</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1700831578293</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,7 +299,8 @@
     <MESSAGE value="프로그래머스 1113" />
     <MESSAGE value="프로그래머스 1116" />
     <MESSAGE value="프로그래머스 1122" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 1122" />
+    <MESSAGE value="프로그래머스 1124" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 1124" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
